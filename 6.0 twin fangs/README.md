@@ -1,6 +1,6 @@
 # Twin Fangs
 
-- 2 snakes — kill at the same time
+- 2 snakes - kill at the same time
 
 ## Eternal Venom
 - Permanent DoT, stackable
@@ -12,12 +12,12 @@
 
 ## Red circles on players
 - ❓ Add / remove venom
-- ❓ Red 🟣 void
+- ❓ Red void
 
 ## Red group soak on the boss
 - Removes 3 stacks (hits 3 times, 1 stack per hit)
-- Spawns a red add 👹 — priority
+- Spawns a red add 👹 - priority
   - Size depends on the stacks removed
 
-## Intermission ⏸️ — ❓ time
+## Intermission ⏸️ - ❓ time
 - Run around in a circle to avoid the beam from the center

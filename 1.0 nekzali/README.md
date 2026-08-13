@@ -11,8 +11,8 @@
 - Ideally group up after the shield is removed
 - ❓ Boss into adds
 
-## Intermission ⏸️ — 50%
-- 2x Echo of Jawae — kill one by one
+## Intermission ⏸️ - 50%
+- 2x Echo of Jawae - kill one by one
 - Red group soak: half the raid
 - (HC) People who didn't soak clear corpses with the red circle
 
