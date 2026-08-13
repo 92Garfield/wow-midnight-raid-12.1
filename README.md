@@ -16,4 +16,4 @@ Boss notes for the Midnight raid, *The Venomous Abyss*.
 | 3 | Right | Sszorak | [3.1 sszorak](3.1%20sszorak/README.md)                         |
 | 4 | - | The Twin Fangs | [6.0 twin fangs](6.0%20twin%20fangs/README.md)                 |
 | 5 | - | The Coiled Altar | [7.0 coiled altar](7.0%20coiled%20altar/README.md)             |
-| 6 | - | Ula'tek | nothing yet                                                    |
+| 6 | - | Ula'tek | [8.0 ulatek](8.0%20ulatek/README.md)                           |

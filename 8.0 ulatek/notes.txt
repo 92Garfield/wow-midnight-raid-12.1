@@ -1,0 +1,21 @@
+PHASE 1
+    move eggs to avoid them from getting hit by caustig waves
+
+    damage amp: Rage of the Shackled +100% ?? time based
+
+PHASE 2
+    CC/Kick and kill ADDs: Ravenous Doomscale
+    throw eggs into Blightscale Clutch?
+
+    damage amp: Rage of the Shackled +100% ?? time based
+
+INTERMISSION
+    groups soak
+        2 soaks, split raid
+
+PHASE 3
+    boss area gets smaller
+    boss applies debuff Serpen's Bite to players
+        after 15 second -> dead
+        other player can remove debuff ??extra action button
+        5 seconds after removal, 7 yards aoe amage on infected player
