@@ -1,0 +1,33 @@
+Adds move to center, priority
+Debuff per color
+
+2 Altars activate at a time
+    on 2. activation in a row, altar is empowered
+
+RED - BLOOD
+    ADD
+        cc immune
+        splits into 2 on kill
+
+    DEBUFF
+        heal absorb
+        soaks from players around affected (Miasma, Hungering destroyer)
+
+ORANGE - FIRE
+    ADD
+        spawns 2
+        pulsing damage while alive
+        debuff on raid when killed
+            stackable?
+
+    DEBUFF
+        falloff damage from player
+
+
+BLUE - SHADOW
+    ADD
+        multiple, cc-able
+        spawn impact when killed
+
+    DEBUFF
+        spawn impact below player

@@ -1,0 +1,24 @@
+3 Turtles ??kill same time
+no more than 2 of them stacked
+
+Trader Gebbo
+    not tanked, wanders around
+    throws stuff:
+        box/fish:
+            pickup by player
+            use on turtle, one per turtle, turtle is empowered
+
+        mushroom+bomb:
+            jump on mushroom to bounce over explosion
+
+
+
+First Mate Nama
+    tanked
+    3 group soaks at a time
+        ?? 5 per soak
+
+Scrollsage Iku
+    red & blue circles on players
+        pair up (red+lue), overlapping red and blue
+        after void are down, run into opposite void to clear

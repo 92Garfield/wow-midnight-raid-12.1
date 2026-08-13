@@ -1,0 +1,23 @@
+Essence Rend debuff
+    go to edge of arena
+    call dispel
+    places void
+
+Adds spawn
+    prevent form getting to center
+    stop moving after shield
+    ideally group after shield removed
+    ?? boss into adds
+
+INTERMISSION 50%
+
+2 x echo jawae
+    kill 1 by 1
+    red group soak:
+        half the raid
+        (hc) people who didnt soak clear corpses with red circle
+
+PHASE 2
+
+more passive damage
+void zones move periodically

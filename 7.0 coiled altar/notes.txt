@@ -1,0 +1,23 @@
+PHASE 1
+    collect green orbs
+        group them up
+        blow up with tank frontal
+
+    group soak on edge
+        run away from aoe after
+
+PHASE 2 - Zuljan dead
+    MCs player try to jump off the platform
+        hit down shield to free
+        freed players spawn 2 ghosts
+            ghost fixate random players
+            stop moving if looked at
+            destroy with tank frontal
+
+    destroy boss shield, kick cast
+
+INTERMISSION - Malacross dead
+    damage amp + 100%, hit zuljan
+
+PHASE 3 - time based
+    PHASE 1 + PHASE 2

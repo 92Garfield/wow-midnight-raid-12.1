@@ -1,0 +1,18 @@
+40 yards apart
+
+GREEN
+    add priority -> boss on top
+    run over blobs
+        HC -> spawn spikes towards boss when destroyed
+
+
+RED
+    dispels
+    group soak on edge
+        HC every soaker spawn a void, that grows
+
+
+100% (time?): Energy Kiss
+    I'm afraid we need to use Math: https://www.youtube.com/watch?v=gENVB6tjq_M
+
+swap after intermission (boss positions, players stay)

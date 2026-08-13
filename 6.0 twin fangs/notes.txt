@@ -1,0 +1,23 @@
+2 snakes, kill same time
+
+eternal venom: permanent dot, stackable
+    10 stack -> dead
+
+add in center:
+    targeted lines on random player
+        eternal venom
+
+    run over green orbs
+        eternal venom
+
+red circles on player
+    ?? add/remove venom
+    ?? red void
+
+red group soak on boss:
+    removes 3 stacks (hits 3 times, 1 stack per hit)
+    spawns red add, priority
+        size depends on stacks removed
+
+INTERMISSION ??time
+    round around in circle to avoid beam from center
