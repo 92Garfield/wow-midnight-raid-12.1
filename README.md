@@ -9,6 +9,7 @@ Boss notes for the Midnight raid, *The Venomous Abyss*.
 
 | # | Wing | Boss | Notes                                                          |
 |---|---|---|----------------------------------------------------------------|
+| 0 | - | Nymrissa Wavecaller | [0.0 nymrissa wavecaller](0.0%20nymrissa%20wavecaller/README.md)       |
 | 1 | - | Nek'zali the Soulcoiler | [1.0 nekzali](1.0%20nekzali/README.md)                         |
 | 2 | Left | Entombed Sentinels | [2.0 entombed sentinels](2.0%20entombed%20sentinels/README.md) |
 | 2 | Right | The Lost Explorers | [2.1 lost explorers](2.1%20lost%20explorers/README.md)         |

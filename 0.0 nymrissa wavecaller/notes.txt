@@ -1,0 +1,18 @@
+Debuff is applied to players (Chilling Frost)
+    places orb on player position on tick (1.5s)
+        when orb is soaked
+            HC unsoaked orbs will wipe the raid after some time
+            MYTH raid damage
+            frost zone is created
+                MYTH frost zones are removed by tank frontal
+            soaking player gets a DoT and +20% damage taken from frost orb (stackable)
+
+on side of room, bubbles show add spawns
+    boss is tanked on adds
+    add reaches center orb -> wipe
+    MYTH Frostscale focus
+        make nearby murlocs immune
+
+after add phase
+    whirpool ring around the room
+        find safespot (gap)
