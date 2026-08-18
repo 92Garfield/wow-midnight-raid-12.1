@@ -1,19 +1,29 @@
 PHASE 1
     move eggs to avoid them from getting hit by caustig waves
 
-    damage amp: Rage of the Shackled +100% ?? time based
+    target Gore Rattle (tail) shared healthpool with boss
+        for group soak
+
+    end of phase damage amp on boss: Rage of the Shackled +100% ?? time based 2:15
 
 PHASE 2
-    CC/Kick and kill ADDs: Ravenous Doomscale
-    throw eggs into Blightscale Clutch?
+    split left / right
+        kill doomscale
+        kill small adds
+        kill weakened doomscale on way back
+            !! kick
 
-    damage amp: Rage of the Shackled +100% ?? time based
+    move to boss position before killing of 2. weakened doomscale
+    damage amp starts when it dies ~4:45
 
 INTERMISSION
     groups soak
         2 soaks, split raid
+        kill adds
 
 PHASE 3
+    !! kick blightscale shrieker
+
     boss area gets smaller
     boss applies debuff Serpen's Bite to players
         after 15 second -> dead
