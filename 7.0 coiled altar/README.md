@@ -17,7 +17,7 @@
 - Destroy the boss shield, kick the cast
 
 ## Intermission ⏸️ - Malacross dead
-- Damage amp + 100% - hit Zuljan
+- 🎯 Damage amp + 100% - hit Zuljan
 
 ## Phase 3 - time based
 - Phase 1 + Phase 2

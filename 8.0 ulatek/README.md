@@ -4,25 +4,28 @@
 - Move the eggs to keep them from getting hit by the caustic waves
 - Target Gore Rattle (tail) - shares the health pool with the boss
   - For the group soak
-- End of phase damage amp on the boss: Rage of the Shackled +100% - ❓ time based (2:15)
+- 🎯 End of phase damage amp on the boss: Rage of the Shackled +100% - ❓ time based (2:15) ⏳
 
 ## Phase 2
 - Split left / right
-  - Kill the Doomscale 👹
-  - Kill the small adds 👹
-  - Kill the weakened Doomscale on the way back - 💀 kick it
+  - Drag the Doomscale 👹 into the eggs
+  - The Doomscale activates the eggs - destroy them before they cast
+    - ❓ Don't kill the Doomscale before all small eggs are dead
 - Move to the boss position before killing the 2nd weakened Doomscale
-  - The damage amp starts when it dies (~4:45)
+  - 🎯 The damage amp starts when it dies (~4:45) ⏳
 
 ## Intermission ⏸️
-- Group soaks
-  - 2 soaks, split the raid
+- Dodge zones spawn an egg
+  - Stand next to one to pick it up
+- The soak destroys the eggs
 - Kill the adds 👹
 
 ## Phase 3
-- 💀 Kick Blightscale Shrieker 👹
 - The boss area gets smaller
+- Dodge zone spawns an egg - kill it
 - Boss applies Serpent's Bite to players
   - Dead after 15 seconds
-  - Another player can remove it - ❓ extra action button
-  - 5 seconds after removal, 7 yard AoE damage on the infected player
+  - Red circle + green orb on the player
+    - Infected players spread out
+    - Not-infected players stand inside
+      - On soak the circle turns green - spread out

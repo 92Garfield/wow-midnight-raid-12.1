@@ -8,24 +8,27 @@ PHASE 1
 
 PHASE 2
     split left / right
-        kill doomscale
-        kill small adds
-        kill weakened doomscale on way back
-            !! kick
+        drag doomscale into eggs
+        doomscale activates eggs -> destroy before they cast
+            ?? don't kill doomscale before all small eggs are dead
+
 
     move to boss position before killing of 2. weakened doomscale
     damage amp starts when it dies ~4:45
 
 INTERMISSION
-    groups soak
-        2 soaks, split raid
+    dodge zones -> spawn egg
+        stand next to one, píck up
+    soak -> destroys eggs
         kill adds
 
 PHASE 3
-    !! kick blightscale shrieker
-
     boss area gets smaller
+    dodge zone -> spawn egg -> kill
+
     boss applies debuff Serpen's Bite to players
-        after 15 second -> dead
-        other player can remove debuff ??extra action button
-        5 seconds after removal, 7 yards aoe amage on infected player
+            after 15 second -> dead
+            red circle + green orb on player
+                infected spread
+                not-infected stand inside
+                    when soak -> green circle -> spread
