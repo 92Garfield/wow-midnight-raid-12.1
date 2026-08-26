@@ -1,12 +1,19 @@
 PHASE 1
     collect green orbs
         group them up
+            assign 2 players
         blow up with tank frontal
+            (HC) Raid DoT per orb
 
     group soak on edge
         run away from aoe after
+        (HC) 2 groups alternate
 
 PHASE 2 - Zuljan dead
+    (HC) Assign 3 (ranged) players to interrupt add
+    Purple Circles around players
+        get out of raid
+        when elapsed, collect 3 souls (check debuff)
     MCs player try to jump off the platform
         hit down shield to free
         freed players spawn 2 ghosts
