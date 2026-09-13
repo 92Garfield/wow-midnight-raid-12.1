@@ -1,5 +1,10 @@
-3 Turtles ??kill same time
+3 Turtles
 no more than 2 of them stacked
+
+start: nama on gebbo, Iku behind gebbo
+second shells: nama to iku, behind Gebbo
+2. fish: nama to gebbo, iku to center, focus gebbo
+gebbo 10%: iku to nama
 
 Trader Gebbo
     not tanked, wanders around
@@ -7,18 +12,34 @@ Trader Gebbo
         box/fish:
             pickup by player
             use on turtle, one per turtle, turtle is empowered
+            (mythic) box applies DoT to entire raid
 
         mushroom+bomb:
             jump on mushroom to bounce over explosion
+            iku+nama to center to bait mushroom
+            bomb ahead of gebbos movement
+            (mythic) only 1 mushroom
 
 
 
 First Mate Nama
     tanked
     3 group soaks at a time
-        ?? 5 per soak
+        closest target every leap
+        soak with entire raid
+        soak near edge (outside of inner circle)
+        (mythic) permanent void zones
+
+    shells are baited by melee
+        bait to outside of arena
 
 Scrollsage Iku
+    blink nova
+        edge of arena
+        behind gebbo, slightly in front of Iku
+
     red & blue circles on players
         pair up (red+lue), overlapping red and blue
         after void are down, run into opposite void to clear
+        fire targets ranged
+        frost targets melee
