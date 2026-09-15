@@ -1,18 +1,32 @@
 40 yards apart
 
+(MYTHIC) 8 player get orange circle
+    do not touch player witout circle
+    move to player with circle
+
 GREEN
-    add priority -> boss on top
+    add
+        bait near boss, not near blood
+        first add cleave
+        second add focus kill before intermission
+
     run over blobs
-        HC -> spawn spikes towards boss when destroyed
+        immunities for soaks near intermission
+        (HC) spawn spikes towards boss when destroyed
 
 
 RED
     dispels
     group soak on edge
-        HC every soaker spawn a void, that grows
+        min 8 players
+        (HC) every soaker spawn a void, that grows
+        spread along edge to reduce used space
 
 
-100% (time?): Energy Kiss
-    I'm afraid we need to use Math: https://www.youtube.com/watch?v=gENVB6tjq_M
+Intermission
+    Poison Values are only shown shortly
+        own are visible on debuff display
+    Players with 1 poison use /ping [@player]
+    Players with 2 poison move to Boss
 
 swap after intermission (boss positions, players stay)
