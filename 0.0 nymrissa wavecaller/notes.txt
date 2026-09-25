@@ -16,3 +16,20 @@ on side of room, bubbles show add spawns
 after add phase
     whirpool ring around the room
         find safespot (gap)
+
+MYTHIC
+    boss is tanked on nearest 2 add groups only
+    assign add killers, 2 groups (left / right) á 2-5 players (ranges)
+    assign immunities to clear orbs during Whirlpools: 1:47, 3:37, 5:27
+
+    when placing orb, soak 1 if raid is healthy and player has defensive
+        place orbs close to existing puddles
+        place near center
+            PRO:
+                - ranges can reach far adds better from center
+                - adds wont reach puddles
+            CON:
+                - tank frontal through center can hit players on other side
+
+    stray orbs are soaked by 3. tank
+    orbs near boss are soaked by offtank
