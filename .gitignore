@@ -3,3 +3,6 @@
 
 # Claude Code local settings
 .claude/settings.local.json
+
+# Sentinels cooldown analysis (local only)
+2.0 entombed sentinels/green adds/

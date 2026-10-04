@@ -9,6 +9,9 @@ GREEN
         bait near boss, not near blood
         first add cleave
         second add focus kill before intermission
+            02:04 red group
+            03:43 green group
+            05:33 red group
 
     run over blobs
         immunities for soaks near intermission
