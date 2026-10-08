@@ -3,5 +3,17 @@ look for winds outside arena
 
 circles+lines
     pair up so line goes through your partner
+    (MYTHIC) can match at 90° angle
+    (MYTHIC) most players will self mitigate, ping if not
 
 soak green frontal cone
+
+(MYTHIC)
+farthest player is fixated (assign)
+    shortly after encounter start
+    shortly after trigger
+raid (at least 14 players) group up before enrage
+    assigned player triggers by running in (NSRT timer)
+when triggered, everyone gets star shape lines
+    damage ends approximately where indicator end (short)
+    assign spread positions
