@@ -1,4 +1,4 @@
-# S'szorak
+# Sszorak
 
 - Look for winds outside the arena
   - Place green orbs at the opposite end of the arena to the wind

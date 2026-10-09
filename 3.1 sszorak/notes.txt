@@ -16,4 +16,7 @@ raid (at least 14 players) group up before enrage
     assigned player triggers by running in (NSRT timer)
 when triggered, everyone gets star shape lines
     damage ends approximately where indicator end (short)
-    assign spread positions
+    (assign spread positions)
+    big wigs left / right assignment
+
+directional winds all towards boss
